@@ -1,6 +1,5 @@
 // whenLoaded.js
 
-// Main initialization function
 function whenLoaded()
 {
     makeInterface();
