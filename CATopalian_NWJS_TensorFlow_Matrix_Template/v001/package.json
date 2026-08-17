@@ -1,0 +1,20 @@
+{
+  "name": "catopalian-nwjs-tensorflow-matrix-template",
+  "version": "1.0.0",
+  "description": "A Template for TensorFlow",
+  "main": "./CATopalian_NWJS_TensorFlow_Matrix_Template.html",  
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nw ."
+  },
+  "window": {
+      "width": 800,
+      "height": 600,
+      "icon": "src/media/textures/icons/catopalian_true_ai.png"
+  },
+  "keywords": [],
+  "author": "Christopher Andrew Topalian",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {}
+}
