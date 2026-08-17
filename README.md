@@ -24,6 +24,10 @@ Full Instructions on Running our app here: https://github.com/ChristopherAndrewT
 
 ---
 
+A standalone, zero-setup JavaScript template for calculating high-performance matrix mathematics natively on the GPU using TensorFlow.js and WebGL.
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
